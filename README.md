@@ -1,1 +1,0 @@
-# smstemplate-ssms
